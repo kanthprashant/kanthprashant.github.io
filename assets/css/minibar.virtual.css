@@ -454,18 +454,18 @@
 }
 
 .post-grid .post-category {
-    font-weight: 500;
-    color: #9FA2AB;
-    text-decoration: none;
-}
-
-.post-grid .post-title {
     display: table-row;
-    color: #6c727c;
+    color: #EF3724;
     font-weight: 500;
     font-size: 21px;
     text-decoration: none;
-}
+  }
+  
+  .post-grid .post-title {
+    font-weight: 500;
+    color: #6c727c;
+    text-decoration: none;  
+  }
 
 .post-grid .post-title:hover,
 .post-grid .post-title:focus {
